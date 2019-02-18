@@ -11,47 +11,20 @@ exports.config = {
     onPrepare: function () {
         browser.manage().window().maximize();
     },
-    multiCapabilities: [
-        {
-            shardTestFiles: true,
-            maxInstances: 1,
-            sequential: true,
-            browserName: 'chrome',
-            specs: ['specs/Regression.js']
-        },
-        {
-            shardTestFiles: true,
-            maxInstances: 1,
-            sequential: true,
-            browserName: 'chrome',
-            specs: ['specs/Smoke.js']
-        }],
-    plugins: [{
-        package: require.resolve('protractor-multiple-cucumber-html-reporter-plugin'),
-        options: {
-            automaticallyGenerateReport: true,
-            removeExistingJsonReportFile: true,
-            reportName: 'CucumberJS Report',
-            pageFooter: '<div><p>Created by SethiKetan</p></div>',
-            pageTitle: 'CucumberJS with Protractor Report',
-            customData: {
-                title: 'Execution info',
-                data: [
+    capabilities: {
+        browserName: 'chrome',
 
-                    { label: 'Project', value: 'CucumberJS Project' },
-                    { label: 'Release', value: '1.2.3' },
-                    { label: 'Tester', value: 'Ketan Sethi' }
+        // allows different specs to run in parallel.
+        // If this is set to be true, specs will be sharded by file
+        // (i.e. all files to be run by this set of capabilities will run in parallel).
+        // Default is false.
+        shardTestFiles: true,
 
-                ]
-
-
-            },
-
-            displayDuration: true
-        }
-    }],
-
-    maxSessions: 2,
+        // Maximum number of browser instances that can run in parallel for this
+        // set of capabilities. This is only needed if shardTestFiles is true.
+        // Default is 1.
+        maxInstances: 5,
+    },
 
     specs: [properties.get('featuresPath')],
 
@@ -60,6 +33,7 @@ exports.config = {
         tags: false,
         format: 'json:.tmp/results.json',
         require: [
+            '../env.js',,
             properties.get('stepsPath') // accepts a glob
         ]
     }
