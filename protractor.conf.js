@@ -1,5 +1,5 @@
-var PropertiesReader= require('properties-reader');
-var properties=PropertiesReader('./features/properties/prop.properties');
+var PropertiesReader = require('properties-reader');
+var properties = PropertiesReader('./features/properties/prop.properties');
 
 exports.config = {
     seleniumAddress: properties.get('seleniumAddress'),
@@ -8,10 +8,24 @@ exports.config = {
     allScriptsTimeout: properties.get('allScriptsTimeout'),
     framework: 'custom',
     frameworkPath: require.resolve('protractor-cucumber-framework'),
-    capabilities: {
-        "browserName": 'chrome'
+    onPrepare: function () {
+        browser.manage().window().maximize();
     },
-
+    multiCapabilities: [
+        {
+            shardTestFiles: true,
+            maxInstances: 1,
+            sequential: true,
+            browserName: 'chrome',
+            specs: ['specs/Regression.js']
+        },
+        {
+            shardTestFiles: true,
+            maxInstances: 1,
+            sequential: true,
+            browserName: 'chrome',
+            specs: ['specs/Smoke.js']
+        }],
     plugins: [{
         package: require.resolve('protractor-multiple-cucumber-html-reporter-plugin'),
         options: {
@@ -39,7 +53,7 @@ exports.config = {
 
     maxSessions: 2,
 
-    specs: [ properties.get('featuresPath')],
+    specs: [properties.get('featuresPath')],
 
     cucumberOpts: {
         // require step definitions
