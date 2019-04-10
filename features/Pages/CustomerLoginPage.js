@@ -1,11 +1,8 @@
-var PropertiesReader = require('properties-reader');
-var or = PropertiesReader('./features/properties/or.properties');
-
 module.exports = {
 
     elementsCustomerLoginPage: {
-        nameDropDown: element(by.model(or.get('customerId_model'))).$(or.get('nameDropdown_CSS')),
-        loginButton: element(by.xpath(or.get('loginBtn_xpath'))),
+        nameDropDown: element(by.model('custId')).$("[value = '2']"),
+        loginButton: element(by.xpath("//button[@type='submit']")),
     },
 
     selectCustomer: function () {
@@ -13,7 +10,7 @@ module.exports = {
         return element.nameDropDown.click();
     },
 
-    
+
     doLogin: function () {
         var element = this.elementsCustomerLoginPage;
         return element.loginButton.click();

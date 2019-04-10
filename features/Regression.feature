@@ -1,3 +1,4 @@
+@regression
 Feature: Login to production
     In order to perform successful Login
     As a user
