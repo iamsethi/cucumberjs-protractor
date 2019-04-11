@@ -1,3 +1,5 @@
+var logger = require(process.cwd() + "/support/log");
+var SelectWrapper = require(process.cwd() + "/support/select-wrapper");
 var { Given, When, Then, After } = require('cucumber');
 var chai = require('chai');
 var chaiAsPromised = require('chai-as-promised');
@@ -22,12 +24,16 @@ After(function (scenarioResult) {
 
 var base = require('../Pages/BasePage.js')
 Given(/^I go to "([^"]*)"$/, function (site) {
-  return base.go(site);  //return browser.get(site);
+  return base.go(site).then(function () {
+    logger.log('info', 'Navigated to site successfully')
+  });  //return browser.get(site);
 });
 
 When(/^I found the title as "([^"]*)"$/, function (title) {
-
-  var actualTitle = base.getTitle();  // browser.getTitle();
+  var actualTitle = base.getTitle().then(function (actualTitle) {
+    logger.log('info', 'Actual Title - ' + actualTitle + 'and Expected Title - ' + title)
+    return actualTitle
+  });  // browser.getTitle();
   return expect(actualTitle).to.eventually.equal(title);
 });
 
@@ -49,4 +55,11 @@ When('I click on login', function () {
 var transaction = require('../Pages/TransactionsPage.js')
 Then('I should be able to see login as {string}', function (string) {
   return expect(transaction.getCustomerText()).to.eventually.equal(string);
+});
+
+Then('I should be able to select the customer as {string}', function (string) {
+
+  var mySelect = new SelectWrapper(by.id("userSelect"));
+  mySelect.selectByText(string);
+  return mySelect.selectByValue("3");
 });

@@ -36,6 +36,8 @@
     "properties": "^1.2.1",
     "properties-reader": "0.0.16",
     "protractor-cucumber-framework": "^6.1.1",
-    "protractor-multiple-cucumber-html-reporter-plugin": "^1.8.0"
+    "protractor-multiple-cucumber-html-reporter-plugin": "^1.8.0",
+    "nodemailer": "^6.1.0",
+    "winston": "1.0.1"
   }
 }

@@ -31,3 +31,10 @@ Feature: Login to production
         And I select the value as "Harry Potter"
         And I click on login
         Then I should be able to see login as "Harry Potter"
+
+
+    Scenario: In order to verify login to Banking
+
+        Given I go to "http://www.way2automation.com/angularjs-protractor/banking/#/customer"
+        When I found the title as "Protractor practice website - Banking App"
+        Then I should be able to select the customer as "Harry Potter"

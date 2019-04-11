@@ -1,0 +1,123 @@
+{"level":"info","message":"Navigating to site","timestamp":"2019-04-10T17:59:02.519Z"}
+{"level":"info","message":"Navigating to site","timestamp":"2019-04-10T17:59:05.879Z"}
+{"level":"info","message":"Navigating to site","timestamp":"2019-04-10T17:59:07.654Z"}
+{"level":"info","message":"Navigating to site","timestamp":"2019-04-10T17:59:09.163Z"}
+{"level":"info","message":"Navigating to site","timestamp":"2019-04-10T17:59:10.284Z"}
+{"level":"info","message":"Navigating to site","timestamp":"2019-04-10T18:01:52.829Z"}
+{"level":"info","message":"Actual Title - ManagedPromise::302 {[[PromiseStatus]]: \"pending\"}Expected Title - Protractor practice website - Banking App","timestamp":"2019-04-10T18:01:55.416Z"}
+{"level":"info","message":"Navigating to site","timestamp":"2019-04-10T18:01:56.907Z"}
+{"level":"info","message":"Actual Title - ManagedPromise::1183 {[[PromiseStatus]]: \"pending\"}Expected Title - Protractor practice website - Banking App","timestamp":"2019-04-10T18:01:57.991Z"}
+{"level":"info","message":"Navigating to site","timestamp":"2019-04-10T18:01:58.537Z"}
+{"level":"info","message":"Actual Title - ManagedPromise::2064 {[[PromiseStatus]]: \"pending\"}Expected Title - Protractor practice website - Banking App","timestamp":"2019-04-10T18:01:59.602Z"}
+{"level":"info","message":"Navigating to site","timestamp":"2019-04-10T18:02:00.064Z"}
+{"level":"info","message":"Actual Title - ManagedPromise::2945 {[[PromiseStatus]]: \"pending\"}Expected Title - Protractor practice website - Banking App","timestamp":"2019-04-10T18:02:00.858Z"}
+{"level":"info","message":"Navigating to site","timestamp":"2019-04-10T18:02:01.347Z"}
+{"level":"info","message":"Actual Title - ManagedPromise::3826 {[[PromiseStatus]]: \"pending\"}Expected Title - Protractor practice website - Banking App","timestamp":"2019-04-10T18:02:02.064Z"}
+{"level":"info","message":"Navigated to site successfully","timestamp":"2019-04-10T18:05:14.407Z"}
+{"level":"info","message":"Actual Title - ManagedPromise::307 {[[PromiseStatus]]: \"pending\"}Expected Title - Protractor practice website - Banking App","timestamp":"2019-04-10T18:05:14.667Z"}
+{"level":"info","message":"Navigated to site successfully","timestamp":"2019-04-10T18:05:15.962Z"}
+{"level":"info","message":"Actual Title - ManagedPromise::608 {[[PromiseStatus]]: \"pending\"}Expected Title - Protractor practice website - Banking App","timestamp":"2019-04-10T18:05:16.010Z"}
+{"level":"info","message":"Navigated to site successfully","timestamp":"2019-04-10T18:05:16.940Z"}
+{"level":"info","message":"Actual Title - ManagedPromise::909 {[[PromiseStatus]]: \"pending\"}Expected Title - Protractor practice website - Banking App","timestamp":"2019-04-10T18:05:16.983Z"}
+{"level":"info","message":"Navigated to site successfully","timestamp":"2019-04-10T18:05:17.946Z"}
+{"level":"info","message":"Actual Title - ManagedPromise::1210 {[[PromiseStatus]]: \"pending\"}Expected Title - Protractor practice website - Banking App","timestamp":"2019-04-10T18:05:17.988Z"}
+{"level":"info","message":"Navigated to site successfully","timestamp":"2019-04-10T18:05:18.845Z"}
+{"level":"info","message":"Actual Title - ManagedPromise::1511 {[[PromiseStatus]]: \"pending\"}Expected Title - Protractor practice website - Banking App","timestamp":"2019-04-10T18:05:18.877Z"}
+{"level":"info","message":"Navigated to site successfully","timestamp":"2019-04-10T18:06:08.057Z"}
+{"level":"info","message":"Navigated to site successfully","timestamp":"2019-04-10T18:06:09.604Z"}
+{"level":"info","message":"Navigated to site successfully","timestamp":"2019-04-10T18:06:10.590Z"}
+{"level":"info","message":"Navigated to site successfully","timestamp":"2019-04-10T18:06:11.600Z"}
+{"level":"info","message":"Navigated to site successfully","timestamp":"2019-04-10T18:06:12.477Z"}
+{"level":"info","message":"Navigated to site successfully","timestamp":"2019-04-10T18:06:38.391Z"}
+{"level":"info","message":"Actual Title - ManagedPromise::305 {[[PromiseStatus]]: \"fulfilled\"}Expected Title - Protractor practice website - Banking App","timestamp":"2019-04-10T18:06:38.633Z"}
+{"level":"info","message":"Navigated to site successfully","timestamp":"2019-04-10T18:06:40.872Z"}
+{"level":"info","message":"Actual Title - ManagedPromise::1192 {[[PromiseStatus]]: \"fulfilled\"}Expected Title - Protractor practice website - Banking App","timestamp":"2019-04-10T18:06:40.935Z"}
+{"level":"info","message":"Navigated to site successfully","timestamp":"2019-04-10T18:06:42.474Z"}
+{"level":"info","message":"Actual Title - ManagedPromise::2079 {[[PromiseStatus]]: \"fulfilled\"}Expected Title - Protractor practice website - Banking App","timestamp":"2019-04-10T18:06:42.526Z"}
+{"level":"info","message":"Navigated to site successfully","timestamp":"2019-04-10T18:06:43.650Z"}
+{"level":"info","message":"Actual Title - ManagedPromise::2966 {[[PromiseStatus]]: \"fulfilled\"}Expected Title - Protractor practice website - Banking App","timestamp":"2019-04-10T18:06:43.672Z"}
+{"level":"info","message":"Navigated to site successfully","timestamp":"2019-04-10T18:06:45.247Z"}
+{"level":"info","message":"Actual Title - ManagedPromise::3853 {[[PromiseStatus]]: \"fulfilled\"}Expected Title - Protractor practice website - Banking App","timestamp":"2019-04-10T18:06:45.294Z"}
+{"level":"info","message":"Navigated to site successfully","timestamp":"2019-04-10T18:08:17.568Z"}
+{"level":"info","message":"Navigated to site successfully","timestamp":"2019-04-10T18:08:18.848Z"}
+{"level":"info","message":"Navigated to site successfully","timestamp":"2019-04-10T18:08:19.885Z"}
+{"level":"info","message":"Navigated to site successfully","timestamp":"2019-04-10T18:08:20.873Z"}
+{"level":"info","message":"Navigated to site successfully","timestamp":"2019-04-10T18:08:21.765Z"}
+{"level":"info","message":"Navigated to site successfully","timestamp":"2019-04-10T18:09:36.296Z"}
+{"level":"info","message":"Actual Title - Protractor practice website - Banking AppExpected Title - Protractor practice website - Banking App","timestamp":"2019-04-10T18:09:36.558Z"}
+{"level":"info","message":"Navigated to site successfully","timestamp":"2019-04-10T18:09:38.022Z"}
+{"level":"info","message":"Actual Title - Protractor practice website - Banking AppExpected Title - Protractor practice website - Banking App","timestamp":"2019-04-10T18:09:38.102Z"}
+{"level":"info","message":"Navigated to site successfully","timestamp":"2019-04-10T18:09:38.994Z"}
+{"level":"info","message":"Actual Title - Protractor practice website - Banking AppExpected Title - Protractor practice website - Banking App","timestamp":"2019-04-10T18:09:39.023Z"}
+{"level":"info","message":"Navigated to site successfully","timestamp":"2019-04-10T18:09:40.060Z"}
+{"level":"info","message":"Actual Title - Protractor practice website - Banking AppExpected Title - Protractor practice website - Banking App","timestamp":"2019-04-10T18:09:40.143Z"}
+{"level":"info","message":"Navigated to site successfully","timestamp":"2019-04-10T18:09:41.059Z"}
+{"level":"info","message":"Actual Title - Protractor practice website - Banking AppExpected Title - Protractor practice website - Banking App","timestamp":"2019-04-10T18:09:41.091Z"}
+{"level":"info","message":"Navigated to site successfully","timestamp":"2019-04-10T18:11:33.283Z"}
+{"level":"info","message":"Actual Title - Protractor practice website - Banking AppExpected Title - Protractor practice website - Banking App","timestamp":"2019-04-10T18:11:33.568Z"}
+{"level":"info","message":"Navigated to site successfully","timestamp":"2019-04-10T18:11:34.904Z"}
+{"level":"info","message":"Actual Title - Protractor practice website - Banking AppExpected Title - Protractor practice website - Banking App","timestamp":"2019-04-10T18:11:34.934Z"}
+{"level":"info","message":"Navigated to site successfully","timestamp":"2019-04-10T18:11:35.776Z"}
+{"level":"info","message":"Actual Title - Protractor practice website - Banking AppExpected Title - Protractor practice website - Banking App","timestamp":"2019-04-10T18:11:35.836Z"}
+{"level":"info","message":"Navigated to site successfully","timestamp":"2019-04-10T18:11:36.746Z"}
+{"level":"info","message":"Actual Title - Protractor practice website - Banking AppExpected Title - Protractor practice website - Banking App","timestamp":"2019-04-10T18:11:36.779Z"}
+{"level":"info","message":"Navigated to site successfully","timestamp":"2019-04-10T18:11:37.669Z"}
+{"level":"info","message":"Actual Title - Protractor practice website - Banking AppExpected Title - Protractor practice website - Banking App","timestamp":"2019-04-10T18:11:37.704Z"}
+{"level":"info","message":"Navigated to site successfully","timestamp":"2019-04-10T18:17:57.581Z"}
+{"level":"info","message":"Actual Title - Protractor practice website - Banking Appand Expected Title - Protractor practice website - Banking App","timestamp":"2019-04-10T18:17:57.827Z"}
+{"level":"info","message":"Navigated to site successfully","timestamp":"2019-04-10T18:17:59.494Z"}
+{"level":"info","message":"Actual Title - Protractor practice website - Banking Appand Expected Title - Protractor practice website - Banking App","timestamp":"2019-04-10T18:17:59.545Z"}
+{"level":"info","message":"Navigated to site successfully","timestamp":"2019-04-10T18:18:00.763Z"}
+{"level":"info","message":"Actual Title - Protractor practice website - Banking Appand Expected Title - Protractor practice website - Banking App","timestamp":"2019-04-10T18:18:00.797Z"}
+{"level":"info","message":"Navigated to site successfully","timestamp":"2019-04-10T18:18:01.807Z"}
+{"level":"info","message":"Actual Title - Protractor practice website - Banking Appand Expected Title - Protractor practice website - Banking App","timestamp":"2019-04-10T18:18:01.835Z"}
+{"level":"info","message":"Navigated to site successfully","timestamp":"2019-04-10T18:18:03.001Z"}
+{"level":"info","message":"Actual Title - Protractor practice website - Banking Appand Expected Title - Protractor practice website - Banking App","timestamp":"2019-04-10T18:18:03.046Z"}
+{"level":"info","message":"Navigated to site successfully","timestamp":"2019-04-11T17:33:28.742Z"}
+{"level":"info","message":"Actual Title - Protractor practice website - Banking Appand Expected Title - Protractor practice website - Banking App","timestamp":"2019-04-11T17:33:29.068Z"}
+{"level":"info","message":"Navigated to site successfully","timestamp":"2019-04-11T17:33:31.295Z"}
+{"level":"info","message":"Actual Title - Protractor practice website - Banking Appand Expected Title - Protractor practice website - Banking App","timestamp":"2019-04-11T17:33:31.329Z"}
+{"level":"info","message":"Navigated to site successfully","timestamp":"2019-04-11T17:33:33.240Z"}
+{"level":"info","message":"Actual Title - Protractor practice website - Banking Appand Expected Title - Protractor practice website - Banking App","timestamp":"2019-04-11T17:33:33.274Z"}
+{"level":"info","message":"Navigated to site successfully","timestamp":"2019-04-11T17:33:35.243Z"}
+{"level":"info","message":"Actual Title - Protractor practice website - Banking Appand Expected Title - Protractor practice website - Banking App","timestamp":"2019-04-11T17:33:35.279Z"}
+{"level":"info","message":"Navigated to site successfully","timestamp":"2019-04-11T17:33:37.979Z"}
+{"level":"info","message":"Actual Title - Protractor practice website - Banking Appand Expected Title - Protractor practice website - Banking App","timestamp":"2019-04-11T17:33:38.035Z"}
+{"level":"info","message":"Navigated to site successfully","timestamp":"2019-04-11T17:44:09.419Z"}
+{"level":"info","message":"Actual Title - Protractor practice website - Banking Appand Expected Title - Protractor practice website - Banking App","timestamp":"2019-04-11T17:44:09.665Z"}
+{"level":"info","message":"Navigated to site successfully","timestamp":"2019-04-11T17:45:05.455Z"}
+{"level":"info","message":"Actual Title - Protractor practice website - Banking Appand Expected Title - Protractor practice website - Banking App","timestamp":"2019-04-11T17:45:05.743Z"}
+{"level":"info","message":"Navigated to site successfully","timestamp":"2019-04-11T17:48:31.211Z"}
+{"level":"info","message":"Actual Title - Protractor practice website - Banking Appand Expected Title - Protractor practice website - Banking App","timestamp":"2019-04-11T17:48:31.448Z"}
+{"level":"info","message":"Navigated to site successfully","timestamp":"2019-04-11T17:51:00.758Z"}
+{"level":"info","message":"Actual Title - Protractor practice website - Banking Appand Expected Title - Protractor practice website - Banking App","timestamp":"2019-04-11T17:51:00.995Z"}
+{"level":"info","message":"Navigated to site successfully","timestamp":"2019-04-11T17:52:17.952Z"}
+{"level":"info","message":"Actual Title - Protractor practice website - Banking Appand Expected Title - Protractor practice website - Banking App","timestamp":"2019-04-11T17:52:18.201Z"}
+{"level":"info","message":"Navigated to site successfully","timestamp":"2019-04-11T17:52:18.777Z"}
+{"level":"info","message":"Actual Title - Protractor practice website - Banking Appand Expected Title - Protractor practice website - Banking App","timestamp":"2019-04-11T17:52:18.818Z"}
+{"level":"info","message":"Navigated to site successfully","timestamp":"2019-04-11T17:52:48.142Z"}
+{"level":"info","message":"Actual Title - Protractor practice website - Banking Appand Expected Title - Protractor practice website - Banking App","timestamp":"2019-04-11T17:52:48.416Z"}
+{"level":"info","message":"Navigated to site successfully","timestamp":"2019-04-11T17:54:00.404Z"}
+{"level":"info","message":"Actual Title - Protractor practice website - Banking Appand Expected Title - Protractor practice website - Banking App","timestamp":"2019-04-11T17:54:00.673Z"}
+{"level":"info","message":"Navigated to site successfully","timestamp":"2019-04-11T17:54:01.978Z"}
+{"level":"info","message":"Actual Title - Protractor practice website - Banking Appand Expected Title - Protractor practice website - Banking App","timestamp":"2019-04-11T17:54:02.003Z"}
+{"level":"info","message":"Navigated to site successfully","timestamp":"2019-04-11T17:54:03.013Z"}
+{"level":"info","message":"Actual Title - Protractor practice website - Banking Appand Expected Title - Protractor practice website - Banking App","timestamp":"2019-04-11T17:54:03.047Z"}
+{"level":"info","message":"Navigated to site successfully","timestamp":"2019-04-11T17:54:04.040Z"}
+{"level":"info","message":"Actual Title - Protractor practice website - Banking Appand Expected Title - Protractor practice website - Banking App","timestamp":"2019-04-11T17:54:04.085Z"}
+{"level":"info","message":"Navigated to site successfully","timestamp":"2019-04-11T17:54:04.905Z"}
+{"level":"info","message":"Actual Title - Protractor practice website - Banking Appand Expected Title - Protractor practice website - Banking App","timestamp":"2019-04-11T17:54:04.935Z"}
+{"level":"info","message":"Navigated to site successfully","timestamp":"2019-04-11T17:54:05.714Z"}
+{"level":"info","message":"Actual Title - Protractor practice website - Banking Appand Expected Title - Protractor practice website - Banking App","timestamp":"2019-04-11T17:54:05.746Z"}
+{"level":"info","message":"Navigated to site successfully","timestamp":"2019-04-11T17:54:39.165Z"}
+{"level":"info","message":"Actual Title - Protractor practice website - Banking Appand Expected Title - Protractor practice website - Banking App","timestamp":"2019-04-11T17:54:39.423Z"}
+{"level":"info","message":"Navigated to site successfully","timestamp":"2019-04-11T17:54:40.784Z"}
+{"level":"info","message":"Actual Title - Protractor practice website - Banking Appand Expected Title - Protractor practice website - Banking App","timestamp":"2019-04-11T17:54:40.830Z"}
+{"level":"info","message":"Navigated to site successfully","timestamp":"2019-04-11T17:54:42.147Z"}
+{"level":"info","message":"Actual Title - Protractor practice website - Banking Appand Expected Title - Protractor practice website - Banking App","timestamp":"2019-04-11T17:54:42.195Z"}
+{"level":"info","message":"Navigated to site successfully","timestamp":"2019-04-11T17:54:43.568Z"}
+{"level":"info","message":"Actual Title - Protractor practice website - Banking Appand Expected Title - Protractor practice website - Banking App","timestamp":"2019-04-11T17:54:43.620Z"}
+{"level":"info","message":"Navigated to site successfully","timestamp":"2019-04-11T17:54:44.669Z"}
+{"level":"info","message":"Actual Title - Protractor practice website - Banking Appand Expected Title - Protractor practice website - Banking App","timestamp":"2019-04-11T17:54:44.699Z"}
+{"level":"info","message":"Navigated to site successfully","timestamp":"2019-04-11T17:54:45.858Z"}
+{"level":"info","message":"Actual Title - Protractor practice website - Banking Appand Expected Title - Protractor practice website - Banking App","timestamp":"2019-04-11T17:54:45.909Z"}
