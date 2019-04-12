@@ -7,7 +7,14 @@ exports.config = {
     getPageTimeout: properties.get('getPageTimeout'),
     allScriptsTimeout: properties.get('allScriptsTimeout'),
     capabilities: {
-        browserName: process.env.TEST_BROWSER_NAME || "chrome"
+        browserName: process.env.TEST_BROWSER_NAME || "chrome",
+        shardTestFiles: true,
+         
+        // Maximum number of browser instances that can run in parallel for this
+        // set of capabilities. This is only needed if shardTestFiles is true.
+        // Default is 1.
+        maxInstances: 2,       
+     
     },
 
     framework: 'custom',

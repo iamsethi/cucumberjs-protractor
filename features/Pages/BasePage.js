@@ -1,9 +1,9 @@
 module.exports = {
-    go: function (site) {
+    go: (site) => {
         return browser.get(site);
     },
 
-    getTitle: function () {
+    getTitle: () => {
         return browser.getTitle();
     },
 };

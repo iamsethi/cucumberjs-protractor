@@ -31,7 +31,7 @@ Given(/^I go to "([^"]*)"$/, function (site) {
 
 When(/^I found the title as "([^"]*)"$/, function (title) {
   var actualTitle = base.getTitle().then(function (actualTitle) {
-    logger.log('info', 'Actual Title - ' + actualTitle + 'and Expected Title - ' + title)
+    logger.log('info', 'Actual Title - ' + actualTitle + ' and Expected Title - ' + title)
     return actualTitle
   });  // browser.getTitle();
   return expect(actualTitle).to.eventually.equal(title);
